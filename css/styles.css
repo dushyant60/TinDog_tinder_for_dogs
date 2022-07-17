@@ -23,7 +23,7 @@ p{
     font-family: 'Montserrat',sans-serif;
 }
 #title{
-    background-color: #fd065cf8;
+    background-color: #ff4c68;
     color: white;
 }
 .container-fluid{
@@ -78,7 +78,7 @@ p{
     margin-bottom: 1.2rem;
 }
 .icon:hover{
-    color: #fd065cf8;
+    color: #ff4c68;
 }
 
 /* Testimonials Section */
@@ -126,7 +126,7 @@ p{
 /* Call to Action */
 
 #cta{
-    background-color:#fd065cf8;
+    background-color:#ff4c68;
     text-align: center;
     padding: 7% 10%;
     color: white;
